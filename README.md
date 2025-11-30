@@ -43,3 +43,8 @@ Python 3.x
 Streamlit – Interactive web app interface
 SQLite – Persistent database
 OOP Concepts – Modular agent design with MainAgent
+
+---
+
+## Working app demo : 
+https://siddhikasavant-personalstudyplanner-app-mlhdwi.streamlit.app/
